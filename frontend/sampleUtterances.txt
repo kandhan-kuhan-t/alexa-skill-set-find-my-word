@@ -1,0 +1,38 @@
+
+
+getMeaning what's the meaning for {word}
+getMeaning whats the meaning for {word}
+getMeaning what is the meaning for {word}
+getMeaning get me the meaning for {word}
+getMeaning give me the meaning for {word}
+getMeaning tell me the meaning for {word}
+getMeaning find me the meaning for {word}
+getMeaning find the meaning for {word}
+getMeaning tell the meaning for {word}
+getMeaning what is {word}
+
+getMeaningFollowUp yes
+getMeaningFollowUp yeah
+getMeaningFollowUp yup
+getMeaningFollowUp yep
+getMeaningFollowUp sure
+getMeaningFollowUp yes please
+
+goBackToMain no
+goBackToMain nah
+goBackToMain nope
+
+getMeaning {word}
+
+
+getSpelling what's the spelling for {word}
+getSpelling whats the spelling for {word}
+getSpelling what is the spelling for {word}
+getSpelling get me the spelling for {word}
+getSpelling give me the spelling for {word}
+getSpelling tell me the spelling for {word}
+getSpelling find me the spelling for {word}
+getSpelling find the spelling for {word}
+getSpelling tell the spelling for {word}
+
+AMAZON.StopIntent bye
